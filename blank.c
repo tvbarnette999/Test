@@ -1,0 +1,1 @@
+//blank .c file for linguist test. File is same size for % check.
